@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+let person = MyObject(name: "Tom", age: 14)
+print(person)
 
